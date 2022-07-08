@@ -1,0 +1,68 @@
+consumption_report
+Sun Jan 09 21:17:15 CET 2022
+-----------------------------------
+Appliance: Fridge
+Electricity: 3480  Gas: 0  Water: 0
+
+Appliance: Sunblind
+Electricity: 1168  Gas: 0  Water: 0
+
+Appliance: Robot
+Electricity: 1440  Gas: 0  Water: 0
+
+Appliance: Television
+Electricity: 4550  Gas: 0  Water: 0
+
+Appliance: CD Player
+Electricity: 1942  Gas: 0  Water: 0
+
+Appliance: Temperature Sensor
+Electricity: 3600  Gas: 0  Water: 0
+
+Appliance: Washing Machine
+Electricity: 5070  Gas: 0  Water: 700
+
+Appliance: Gas Boiler
+Electricity: 3585  Gas: 14340  Water: 0
+
+Appliance: Wind Sensor
+Electricity: 3600  Gas: 0  Water: 0
+
+Appliance: Storm Sensor
+Electricity: 3600  Gas: 0  Water: 0
+
+Appliance: Television 2
+Electricity: 4705  Gas: 0  Water: 0
+
+Appliance: Computer
+Electricity: 3121  Gas: 0  Water: 0
+
+Appliance: CD Player 2
+Electricity: 1727  Gas: 0  Water: 0
+
+Appliance: Sunblind 2
+Electricity: 1300  Gas: 0  Water: 0
+
+Appliance: Computer 2
+Electricity: 1922  Gas: 0  Water: 0
+
+Appliance: CD Player 3
+Electricity: 1703  Gas: 0  Water: 0
+
+Appliance: Sunblind 3
+Electricity: 1180  Gas: 0  Water: 0
+
+Appliance: Computer 3
+Electricity: 2106  Gas: 0  Water: 0
+
+Appliance: CD Player 4
+Electricity: 3174  Gas: 0  Water: 0
+
+Appliance: Sunblind 4
+Electricity: 1146  Gas: 0  Water: 0
+
+
+
+Household electricity consumption: 54119 units == 1352 Kč
+Household gas consumption: 14340 units == 573 Kč
+Household water consumption: 700 units == 700 Kč

@@ -1,0 +1,98 @@
+person_activity_report
+Sun Jan 09 21:17:15 CET 2022
+-----------------------------------
+Name of Person: Adult-2086948903
+ used Fridge - 24 times
+ used Computer - 20 times
+ used CD Player - 15 times
+ used Robot - 28 times
+ used Washing Machine - 15 times
+ used Television - 11 times
+ used Computer 2 - 3 times
+ used Television 2 - 3 times
+ used CD Player 2 - 3 times
+ used Computer 3 - 4 times
+ used CD Player 3 - 1 times
+ used Ski 2 - 19 times
+ used Bike - 45 times
+ used Ski - 17 times
+ used Bike 2 - 15 times
+
+Name of Person: Adult-1132647003
+ used Robot - 29 times
+ used CD Player - 19 times
+ used Television - 13 times
+ used Computer - 19 times
+ used Fridge - 23 times
+ used Television 2 - 11 times
+ used Washing Machine - 20 times
+ used CD Player 2 - 5 times
+ used Computer 2 - 8 times
+ used Computer 3 - 1 times
+ used CD Player 3 - 1 times
+ used CD Player 4 - 1 times
+ used Ski - 16 times
+ used Bike - 35 times
+ used Bike 2 - 15 times
+ used Ski 2 - 15 times
+
+Name of Person: Child-27745952
+ used Television 2 - 14 times
+ used CD Player 2 - 6 times
+ used Fridge - 23 times
+ used Television - 12 times
+ used Computer 3 - 3 times
+ used Computer - 19 times
+ used CD Player - 17 times
+ used CD Player 3 - 4 times
+ used Computer 2 - 5 times
+ used Bike - 23 times
+ used Bike 2 - 26 times
+ used Ski 2 - 20 times
+ used Ski - 21 times
+
+Name of Person: Child848102365
+ used Television - 11 times
+ used Television 2 - 9 times
+ used Fridge - 18 times
+ used CD Player - 21 times
+ used Computer 2 - 4 times
+ used Computer 3 - 1 times
+ used Computer - 8 times
+ used CD Player 3 - 2 times
+ used CD Player 2 - 2 times
+ used Bike 2 - 33 times
+ used Bike - 27 times
+ used Ski 2 - 18 times
+ used Ski - 22 times
+
+Name of Person: Child-236027459
+ used CD Player - 7 times
+ used Computer 2 - 9 times
+ used Fridge - 29 times
+ used Television - 12 times
+ used Television 2 - 9 times
+ used Computer - 20 times
+ used CD Player 2 - 7 times
+ used Computer 3 - 2 times
+ used CD Player 3 - 2 times
+ used Ski 2 - 13 times
+ used Bike - 35 times
+ used Bike 2 - 26 times
+ used Ski - 13 times
+
+Name of Person: Child-601546748
+ used CD Player 3 - 5 times
+ used Computer - 19 times
+ used CD Player - 14 times
+ used Fridge - 21 times
+ used CD Player 2 - 5 times
+ used Television - 20 times
+ used Computer 3 - 2 times
+ used Television 2 - 7 times
+ used Computer 2 - 9 times
+ used Ski - 19 times
+ used Bike 2 - 21 times
+ used Bike - 26 times
+ used Ski 2 - 14 times
+

@@ -1,0 +1,185 @@
+event_report
+Sun Jan 09 21:17:15 CET 2022
+-----------------------------------
+Number of all events: 169
+Number of BabyRepackEvents: 42
+Number of DeviceBrokenEvents: 38
+Number of FeedPetEvents: 58
+Number of LowTemperatureEvents: 18
+Number of StormEvents: 4
+Number of StrongWindEvents: 9
+
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child-27745952 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-27745952 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-27745952 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-27745952 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-1132647003
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child848102365 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-27745952 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-601546748 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-27745952 handled by: Adult-2086948903
+BABY_REPACK event triggered by: Child-236027459 handled by: null
+BABY_REPACK event triggered by: Child-27745952 handled by: null
+BABY_REPACK event triggered by: Child-601546748 handled by: null
+
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-27745952
+FEED_PET event triggered by: Pet340199106 handled by: Child-236027459
+FEED_PET event triggered by: Pet210954991 handled by: Child-27745952
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-27745952
+FEED_PET event triggered by: Pet340199106 handled by: Child-27745952
+FEED_PET event triggered by: Pet210954991 handled by: Child-27745952
+FEED_PET event triggered by: Pet-1782309589 handled by: Child848102365
+FEED_PET event triggered by: Pet340199106 handled by: Child848102365
+FEED_PET event triggered by: Pet210954991 handled by: Child-601546748
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-27745952
+FEED_PET event triggered by: Pet340199106 handled by: Child-27745952
+FEED_PET event triggered by: Pet210954991 handled by: Child848102365
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-601546748
+FEED_PET event triggered by: Pet340199106 handled by: Child-601546748
+FEED_PET event triggered by: Pet210954991 handled by: Child-601546748
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-27745952
+FEED_PET event triggered by: Pet340199106 handled by: Child848102365
+FEED_PET event triggered by: Pet210954991 handled by: Child-601546748
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-601546748
+FEED_PET event triggered by: Pet340199106 handled by: Child-601546748
+FEED_PET event triggered by: Pet210954991 handled by: Child-27745952
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-236027459
+FEED_PET event triggered by: Pet340199106 handled by: Child848102365
+FEED_PET event triggered by: Pet210954991 handled by: Child-27745952
+FEED_PET event triggered by: Pet-1782309589 handled by: Child848102365
+FEED_PET event triggered by: Pet340199106 handled by: Child-601546748
+FEED_PET event triggered by: Pet210954991 handled by: Child-236027459
+FEED_PET event triggered by: Pet-1782309589 handled by: Child848102365
+FEED_PET event triggered by: Pet340199106 handled by: Child848102365
+FEED_PET event triggered by: Pet210954991 handled by: Child848102365
+FEED_PET event triggered by: Pet-1782309589 handled by: Child848102365
+FEED_PET event triggered by: Pet340199106 handled by: Child-236027459
+FEED_PET event triggered by: Pet210954991 handled by: Child-601546748
+FEED_PET event triggered by: Pet-1782309589 handled by: Child848102365
+FEED_PET event triggered by: Pet340199106 handled by: Child-27745952
+FEED_PET event triggered by: Pet210954991 handled by: Child-236027459
+FEED_PET event triggered by: Pet-1782309589 handled by: Adult-1132647003
+FEED_PET event triggered by: Pet340199106 handled by: Child848102365
+FEED_PET event triggered by: Pet210954991 handled by: Child-236027459
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-236027459
+FEED_PET event triggered by: Pet340199106 handled by: Child-27745952
+FEED_PET event triggered by: Pet210954991 handled by: Child-236027459
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-601546748
+FEED_PET event triggered by: Pet340199106 handled by: Child-27745952
+FEED_PET event triggered by: Pet210954991 handled by: Child848102365
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-236027459
+FEED_PET event triggered by: Pet340199106 handled by: Child-601546748
+FEED_PET event triggered by: Pet210954991 handled by: Adult-1132647003
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-601546748
+FEED_PET event triggered by: Pet340199106 handled by: Child-27745952
+FEED_PET event triggered by: Pet210954991 handled by: Child-601546748
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-236027459
+FEED_PET event triggered by: Pet340199106 handled by: Child-236027459
+FEED_PET event triggered by: Pet210954991 handled by: Child-601546748
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-236027459
+FEED_PET event triggered by: Pet340199106 handled by: Child-236027459
+FEED_PET event triggered by: Pet210954991 handled by: Child-236027459
+FEED_PET event triggered by: Pet-1782309589 handled by: Child-601546748
+
+BROKEN_DEVICE event triggered by: CD Player 3 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Television handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Computer handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Sunblind 2 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Sunblind 3 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: CD Player handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Sunblind handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Television handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Sunblind 4 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Gas Boiler handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Computer 2 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: CD Player 2 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Sunblind 3 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Sunblind handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: CD Player handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Fridge handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: CD Player 4 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Washing Machine handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Computer 3 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Television handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Sunblind handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: CD Player 3 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Gas Boiler handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Gas Boiler handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Computer 2 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: CD Player 2 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Computer 2 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Computer 3 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Sunblind 4 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: CD Player 2 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: CD Player handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Sunblind 2 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: CD Player 4 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Computer 3 handled by: Adult-2086948903
+BROKEN_DEVICE event triggered by: Washing Machine handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Television handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Sunblind 3 handled by: Adult-1132647003
+BROKEN_DEVICE event triggered by: Television 2 handled by: Adult-1132647003
+
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+LOW_TEMPERATURE event triggered by: Temperature Sensor handled by: Gas Boiler
+
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+STRONG_WIND event triggered by: Wind Sensor handled by: [Sunblind, Sunblind 2, Sunblind 3, Sunblind 4]
+
+STORM event triggered by: Storm Sensor handled by: [Fridge, Television, Washing Machine, Television 2, Computer, Computer 2, Computer 3]
+STORM event triggered by: Storm Sensor handled by: [Fridge, Television, Washing Machine, Television 2, Computer, Computer 2, Computer 3]
+STORM event triggered by: Storm Sensor handled by: [Fridge, Television, Washing Machine, Television 2, Computer, Computer 2, Computer 3]
+STORM event triggered by: Storm Sensor handled by: [Fridge, Television, Washing Machine, Television 2, Computer, Computer 2, Computer 3]

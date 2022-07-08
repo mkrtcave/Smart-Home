@@ -1,0 +1,60 @@
+house_info_report
+Sun Jan 09 21:17:15 CET 2022
+-----------------------------------
+Number of people: 6
+Number of pets: 3
+Number of devices: 20
+Number of floors: 2
+Number of sport equipments: 4
+
+
+Floor: 0
+
+ Rooms at floor 0:
+
+  Kitchen
+   Device: Fridge
+
+  Living Room
+   Device: Sunblind
+   Device: Robot
+   Device: Television
+   Device: CD Player
+   Device: Temperature Sensor
+
+  Bathroom
+   Device: Washing Machine
+
+  Toilet
+
+  Garage
+   Device: Gas Boiler
+   Device: Wind Sensor
+   Device: Storm Sensor
+   Equipment: Ski
+   Equipment: Ski 2
+   Equipment: Bike
+   Equipment: Bike 2
+
+Floor: 1
+
+ Rooms at floor 1:
+
+  Bedroom
+   Device: Television 2
+   Device: Computer
+   Device: CD Player 2
+   Device: Sunblind 2
+
+  Kids Room
+   Device: Computer 2
+   Device: CD Player 3
+   Device: Sunblind 3
+
+  Kids Room 2
+   Device: Computer 3
+   Device: CD Player 4
+   Device: Sunblind 4
+
+  Toilet 2
+
